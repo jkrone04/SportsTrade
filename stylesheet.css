@@ -29,6 +29,7 @@ li:last-child {border-right: none;}
   border-radius: 10px; 
   font-size: 18px;
   text-decoration: none;
+  z-index: -1;
   position: relative;
   float: left;}
  .tile a{text-decoration: none; color:black;}
