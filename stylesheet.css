@@ -30,7 +30,6 @@ li:last-child {border-right: none;}
   font-size: 18px;
   text-decoration: none;
   position: relative;
-	left:20px;
   float: left;}
  .tile a{text-decoration: none; color:black;}
  .tile a:hover{background-color: lightblue; text-decoration: none; cursor:pointer; color:black;}
