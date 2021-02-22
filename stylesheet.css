@@ -1,0 +1,18 @@
+@charset "utf-8";
+
+body,html{font-size: 18px}
+body{background-image: url('sportsgear.jpeg'); background-attachment: fixed;
+  background-size: cover}
+p {color: #19A74D}
+p.yellow {color:#D5DE20}
+h1 {font-size:60px; color:#000000; font-family:"Gill Sans", Helvetica, Arial, "sans-serif"}
+h2 {color:#2E2DDA}
+
+ul {margin: 0; padding: 0; overflow: hidden; background-color: #333;
+	position: fixed; top: 0; width: 100%;}
+li {display: inline; float: left; border-right: 1px solid #bbb;}
+li a {display: block; color: white; text-align: center; padding: 14px 16px;
+  text-decoration: none;}
+li a:hover {background-color: #111;}
+li:last-child {border-right: none;}
+.active {background-color: #4CAF50;}
