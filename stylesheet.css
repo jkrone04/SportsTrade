@@ -32,4 +32,4 @@ li:last-child {border-right: none;}
   position:relative;
   float:left;}
  .tile a{text-decoration: none; color:black;}
- .tile a:hover{background-color: none; text-decoration: none; cursor:pointer; color:black;}
+ .tile a:hover{background-color: lightblue; text-decoration: none; cursor:pointer; color:black;}
